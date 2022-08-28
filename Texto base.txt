@@ -5,3 +5,26 @@ Localizada no coração da cidade a Barbearia Alura traz para o mercado o que h�
 Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".
 
 Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+
+Hexadecimal
+RGB = Red Green Blue
+#     _ _  _ _   _ _
+
+0 = ausência
+F = Máximo
+
+#000000 = Preto 
+
+#FFFFFF = Branco
+
+#FF0000 = Vermelho
+
+red 
+blue
+yellow
+
+RGB 0,1,2,3,...255
+
+0 = ausência
+
+255 = Máximo

@@ -28,3 +28,6 @@ RGB 0,1,2,3,...255
 0 = ausência
 
 255 = Máximo
+
+<ul> lista não ordenada
+<ol> lista ordenada

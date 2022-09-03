@@ -31,3 +31,5 @@ RGB 0,1,2,3,...255
 
 <ul> lista não ordenada
 <ol> lista ordenada
+
+espaçamento margin  0 0 0 0 = 0 topo, 0 direita, 0 baixo, 0 esquerda

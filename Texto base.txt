@@ -38,3 +38,6 @@ div =  divisão visual
 section = divisão de conteúdo completo
 id = comportamento
 class = estilo
+
+pseudo-elementos:
+:hover :active :visited :required

@@ -33,3 +33,8 @@ RGB 0,1,2,3,...255
 <ol> lista ordenada
 
 espaçamento margin  0 0 0 0 = 0 topo, 0 direita, 0 baixo, 0 esquerda
+
+div =  divisão visual
+section = divisão de conteúdo completo
+id = comportamento
+class = estilo

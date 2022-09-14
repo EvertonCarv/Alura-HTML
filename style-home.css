@@ -3,8 +3,10 @@ body
         
     }
 #banner
-    {
-        width: 100%;
+    {         
+        width: 940px;
+        position: relative;
+        margin: 0 auto;
     }
 .principal
     {

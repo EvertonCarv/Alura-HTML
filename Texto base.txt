@@ -41,3 +41,55 @@ class = estilo
 
 pseudo-elementos:
 :hover :active :visited :required
+
+Seletores Avançados
+main > p (seleciona o filho direto da main) 
+{
+
+}
+
+img + p (seleciona o paragrafo que vem após a imagem)
+{
+
+}
+img ~ p (pega todos os paragrafos depois da imagem)
+{
+
+}
+.principal p:not(#missao) (seleciona todos os paragrafos menos o que excluimos atraves de sua id)
+{
+
+}
+
+Exemplo 
+<h2>
+<section>
+    <h2>
+    <p>
+    </p>
+    <h2> queremos mudar somente esse usando seletores Avançados para isso usamos 
+    section > p + h2
+
+Calculo CSS 
+width: calc(40% - 26px);
+width: calc(40% - ((26px * 4) / 2));
+width: calc((100% / 3) - 10px);
+
+Adcionando Opacidade
+Uma camada a mais posta sobre a imagem uma pelicula tipo insulfime
+opacity: 1 a 0; 1 exibe elemtno todo e 0 não exibe nada
+opacity: 0.3; isso referente a 30%
+Adcionando Opacidade em textos
+color: rgba(0, 0, 0, 0.3);
+
+Sombra sobre os elementos
+box-shadow: 10px 10px; sendo eixo X = 10px e Y = 10px esses valores vão de acordo com sua necessidade.
+box-shadow: 10px 10px 15px; adicionando o 3º elementos conseguimos ir do solido para o transparente.
+box-shadow: 10px 10px 15px; 4º como se tivesse aproximando a luz do elemento 
+box-shadow: 10px 10px 5px 20px #000000, -10px -10px yellow, -20px 20px rgba(255,0,0,05); várias sombras e várias cores 
+box-shadow: inset 0 0 30px #FF0000;
+Sombra em textos
+text-shadow: 2px 2px red;
+
+Responsive seja bom tanto em Desktop quanto Mobile
+
